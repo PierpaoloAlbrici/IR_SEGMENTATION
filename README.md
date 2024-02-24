@@ -49,7 +49,7 @@ Nella cartella <code>Dataset / MongoDB </code> sono presenti dei file contenenti
 </ul>
 
 Il calcolo della relatedness durante la fase di segmentazione non supervisionata in un documento può richiedere diverso tempo. All'interno del della collezione
-<code>relatedness</code ci sono dei documenti già analizzati (quelli utilizzati per i test e l'evaluation) che sono: 
+<code>relatedness</code> ci sono dei documenti già analizzati (quelli utilizzati per i test e l'evaluation) che sono: 
 <code>[0, 8, 21, 30, 35, 42, 48, 57, 63, 64, 86, 88, 97,99,104,109,113,115,127,128,131,132,133]</code> 
 e che quindi possono essere utilizzati per un'analisi veloce del lavoro. 
 
